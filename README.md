@@ -12,7 +12,6 @@ Some Features:
 -   🔄 Stripe Event Types
 -   🌗 Light/Dark Mode
 -   🌐 Deployment
--   ✅ This is a lot of work. Support me by subscribing to the [Youtube Channel](https://www.youtube.com/@asaprogrammer_)
 
 ### Setup .env file
 
